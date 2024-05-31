@@ -1,6 +1,7 @@
 %{
 #include <stdio.h>
 #include <time.h>
+#include <stdlib.h>
 
 void yyerror(const char *s);
 int yylex(void);
